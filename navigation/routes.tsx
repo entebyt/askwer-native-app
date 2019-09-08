@@ -9,6 +9,6 @@ export const Navigation = createSwitchNavigator(
     Signup: Signup
   },
   {
-    initialRouteName: "Login"
+    initialRouteName: "Signup"
   }
 );
